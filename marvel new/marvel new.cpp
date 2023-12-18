@@ -68,11 +68,6 @@ public:
         return "Good\n";
     }
 
-    bool CanFly()
-    {
-        return 0;
-    }
-
 private:
     Ability* ability1;
     Ability* ability2;
